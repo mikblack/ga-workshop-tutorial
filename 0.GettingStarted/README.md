@@ -8,7 +8,7 @@ This can be done by visting your GitHub user page, clicking on the "Repositories
 
 Once you've done this, you will be presented with an interface where you provide information about teh new repository. Here is the information that I used to set up the repo for *this* workshop:
 
-<img width="50%" src="images/create_repo.png">
+<img width="50%" border: 5px solid #555;src="images/create_repo.png">
 
 Note - I've used the "GNU General Public License v3.0" for this repo.  We can have a discussion about license option if you want...
 
