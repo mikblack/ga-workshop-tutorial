@@ -8,7 +8,7 @@ This can be done by visting your GitHub user page, clicking on the "Repositories
 
 Once you've done this, you will be presented with an interface where you provide information about teh new repository. Here is the information that I used to set up the repo for *this* workshop:
 
-![](images/create_repo.png)
+![](images/create_repo.png?raw=true)
 
 Note - I've used the "GNU General Public License v3.0" for this repo.  We can have a discussion about license option if you want...
 
@@ -16,15 +16,15 @@ Also, I've specifed that a README.md file should be generated when the repositor
 
 Once it has been created (i.e., after you click on the "Create repository" button), you will be taken to the URL (on GitHub) for the new repository.  For the repository for this workshop, it looked like this:
 
-![](images/new_repo.png)
+![](images/new_repo.png?raw=true)
 
 README.md is a markdown file, and is very minimal - it just contains a heading with the name of the repo (in this case "ga-workshop-tutorial"). But clicking on teh "pencil" icon (to the right of the screen), we can edit this file to add some more information. This puts us into an editing mode, where additional text can be added:
 
-![](images/edit_readme.png)
+![](images/edit_readme.png?raw=true)
 
 Once you save your edits (click the "Commit changes" button below the edit box), the content of the README.md file is rendered and displayed below the repository file list:
 
-![](images/rendered_readme.png)
+![](images/rendered_readme.png?raw=true)
 
 ### Next steps - moving things to your computer
 
