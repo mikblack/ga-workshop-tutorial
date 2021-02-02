@@ -20,7 +20,7 @@ Once it has been created (i.e., after you click on the "Create repository" butto
 
 README.md is a markdown file, and is very minimal - it just contains a heading with the name of the repo (in this case "ga-workshop-tutorial"). But clicking on teh "pencil" icon (to the right of the screen), we can edit this file to add some more information. This puts us into an editing mode, where additional text can be added:
 
-<img width="50%" style="border:1px solid black" src="images/edit_readme.png">
+<img width="50%" style="border:5px solid black" src="images/edit_readme.png">
 
 Once you save your edits (click the "Commit changes" button below the edit box), the content of the README.md file is rendered and displayed below the repository file list:
 
