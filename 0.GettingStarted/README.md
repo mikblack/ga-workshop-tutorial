@@ -16,7 +16,7 @@ Also, I've specifed that a README.md file should be generated when the repositor
 
 Once it has been created (i.e., after you click on the "Create repository" button), you will be taken to the URL (on GitHub) for the new repository.  For the repository for this workshop, it looked like this:
 
-<img width="50%" style="border:1px solid black" src="images/new_repo.png">
+<img width="50%" style="border:5px solid black" src="images/new_repo.png">
 
 README.md is a markdown file, and is very minimal - it just contains a heading with the name of the repo (in this case "ga-workshop-tutorial"). But clicking on teh "pencil" icon (to the right of the screen), we can edit this file to add some more information. This puts us into an editing mode, where additional text can be added:
 
