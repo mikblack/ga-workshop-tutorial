@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this section, we will...
+In this section, we will download a small data file containing sequence data from yeast, and then use the `fastqc` command to assess the quality of the data.
 
 ### Learning Objectives
 
