@@ -80,9 +80,11 @@ As well as creating additional files and folders:
 
 Once we've made some edits, and or generated some new content, we can "commit" our changes, and "push" then back to GitHub.
 
-<img width="50%" src="images/vs_commit.png">
+<img width="25%" src="images/vs_commit.png">
 
+Once this has been done, our changes/additions to the repository are reflected on the GitHub website:
 
+<img width="50%" src="images/gh_updated.png">
 
 
 
