@@ -40,11 +40,11 @@ https://code.visualstudio.com/download
 
 Once you've got it installed....
 
-There are a couple of extension that are handy to install.
-
-One for Markdown editing...
+There are a couple of extensions that are handy to install.
 
 <img width="50%" src="images/vs_extensions.png">
+
+One for Markdown editing...
 
 <img width="50%" src="images/vs_md_extension_1.png">
 
