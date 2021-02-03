@@ -52,3 +52,6 @@ Work in progress...
 
 5. Additional considerations
     - ability to run workshop locally (i.e. not on NeSI systems)
+        - can a html link be created to the data files on teh NeSI filesystem that are being used for the workshop?
+        - that would allow non-NeSI users to download the exact files being used, 
+        without any need to duplicate (and remember to update them) externally (e.g., on FigShare).
