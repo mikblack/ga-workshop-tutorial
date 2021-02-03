@@ -33,3 +33,52 @@ Although it is possible to develop an entire workshop simply by interfacing with
 This allows you to build the workshop content on your own computer, while also benefitting from the backup, version control and collaborative content creation advantages that GitHub provides.
 
 There are a number of good options for editors, but here we have chosen to focus on Visual Studio Code, as it has a resasonably shalow learning curve, and is well supported on Linux, Mac and Windows platforms.
+
+VS Code can be downloaded from: 
+
+https://code.visualstudio.com/download
+
+Once you've got it installed....
+
+There are a couple of extension that are handy to install.
+
+One for Markdown editing...
+
+<img width="50%" src="images/vs_extensions.png">
+
+<img width="50%" src="images/vs_md_extension_1.png">
+<img width="50%" src="images/vs_md_extension_2.png">
+
+Which includes additional options for editor colour scheme:
+<img width="50%" src="images/vs_md_colour.png">
+
+And one for GitHub integration:
+
+<img width="50%" src="images/vs_gh_extension.png">
+
+This allows us to "clone" (make a local copy of) the GitHub repo we've created.
+
+<img width="50%" src="images/vs_clone_repo_1.png">
+<img width="50%" src="images/vs_clone_repo_2.png">
+<img width="50%" src="images/vs_clone_repo_3.png">
+
+Once this has been done, we can edit the files locally:
+
+<img width="50%" src="images/vs_edit_readme.png">
+
+and have a real-time preview of our documents:
+
+<img width="50%" src="images/vs_preview_mode.png">
+
+As well as creating additional files and folders:
+
+<img width="50%" src="images/vs_add_folders_files.png">
+
+Once we've made some edits, and or generated some new content, we can "commit" our changes, and "push" then back to GitHub.
+
+<img width="50%" src="images/vs_commit.png">
+
+
+
+
+
