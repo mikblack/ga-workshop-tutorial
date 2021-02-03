@@ -12,7 +12,7 @@ By the end of this section of the course you will have learned:
  2. How to download the sequencing data (in fastq format) from FigShare
  3. How to run the `fastqc` command (via the command line) and direct the output to a specific directory.
 
-### Setting up you project directories
+### Setting up your project directories
 
 Add commentary...
 
