@@ -4,7 +4,7 @@
 
 In this section, we will download a small data file containing sequence data from yeast, and then use the `fastqc` command to assess the quality of the data.
 
-### Learning Objectives
+#### Learning Objectives
 
 By the end of this section of the course you will have learned:
 
