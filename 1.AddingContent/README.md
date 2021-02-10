@@ -114,11 +114,11 @@ adds a link to the Genomics Aotearoa website:
  - software requirements (plus versions used)
  - code to be run
 
-<font color="orange">Work in progress...</font>
+*Work in progress...*
 
 ### NeSI-specific points
 
-<font color="orange">Work in progress...</font>
+*Work in progress...*
 
 ### Additional considerations
  
@@ -127,6 +127,6 @@ Ability to run workshop locally (i.e. not on NeSI systems)
 - can a html link be created to the data files on teh NeSI filesystem that are being used for the workshop
 - that would allow non-NeSI users to download the exact files being used, without any need to duplicate (and remember to update them) externally (e.g., on FigShare).
 
-<font color="orange">Work in progress...</font>
+*Work in progress...*
 
 Next step: [Content Creation Example](https://github.com/mikblack/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
