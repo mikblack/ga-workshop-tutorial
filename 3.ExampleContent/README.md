@@ -14,7 +14,7 @@ By the end of this section of the course you will have learned:
 
 ### Setting up your project directories
 
-Add commentary...
+*Add commentary...*
 
 ```
 # Create directory in which to perform analysis, and change to that directory
@@ -22,7 +22,7 @@ mkdir YeastAnalysis
 cd YeastAnalysis
 ```
 
-Add commentary...
+*Add commentary...*
 
 ```
 # Create subdirectories to hold data and output from FASTQC
@@ -32,7 +32,7 @@ mkdir fastqc_output
 
 ### Downloading the data
 
-Add commentary...
+*Add commentary...*
 
 ```
 # Change to data directory, and download data from FigShare
@@ -42,7 +42,7 @@ wget -O yeast.fastq https://ndownloader.figshare.com/files/4790242
 
 ### Running `fastqc` on the command line
 
-Add commentary...
+*Add commentary...*
 
 ```
 # Run fastqc command on the file yeast.fastq and save the output in fastqc_output
