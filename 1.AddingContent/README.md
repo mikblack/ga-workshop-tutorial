@@ -66,9 +66,9 @@ An alternative is to use the `<img>` tag. For example, this code:
 <img width="20%" src="images/smiley.png">
 ```
 
-will display the same image, scaling it down by 20% (note that only specifying either width or height will preserve the aspect ratio).
+will display the same image, scaling it down by 10% (note that only specifying either width or height will preserve the aspect ratio).
 
-<img width="20%" src="images/smiley.png">
+<img width="10%" src="images/smiley.png">
 
 The examples above make use of "code blocks".  These can be created by placing a series of three tickmarks (```) above and below the text that forms the code block. For example, the syntax
 
@@ -110,3 +110,5 @@ Ability to run workshop locally (i.e. not on NeSI systems)
 
 - can a html link be created to the data files on teh NeSI filesystem that are being used for the workshop
 - that would allow non-NeSI users to download the exact files being used, without any need to duplicate (and remember to update them) externally (e.g., on FigShare).
+
+Next step: [Content Creation Example](https://github.com/mikblack/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
