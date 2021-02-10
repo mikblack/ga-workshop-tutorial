@@ -86,5 +86,5 @@ Once this has been done, our changes/additions to the repository are reflected o
 
 <img width="50%" src="images/gh_updated.png">
 
-
+Next step: [Addinng Content](https://github.com/mikblack/ga-workshop-tutorial/tree/main/1.AddingContent)
 
