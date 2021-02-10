@@ -87,6 +87,6 @@ By the end of this section of the course you will have learned:
 
 ### Adding commentary
 
-Work in progress...
+<font color="orange">Work in progress...</font>
 
 Next step: [Example Content](https://github.com/mikblack/ga-workshop-tutorial/tree/main/3.ExampleContent)
