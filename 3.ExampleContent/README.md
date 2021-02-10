@@ -48,4 +48,3 @@ Add commentary...
 # Run fastqc command on the file yeast.fastq and save the output in fastqc_output
 fastqc -o ../fastqc_output yeast.fastq
 ```
-
