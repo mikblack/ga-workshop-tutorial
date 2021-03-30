@@ -114,18 +114,23 @@ adds a link to the Genomics Aotearoa website:
  - software requirements (plus versions used)
  - code to be run
 
-*Work in progress...*
-
+```diff
+! Work in progress...
+```
 ### NeSI-specific points
 
-*Work in progress...*
+```diff
+! Work in progress...
+```
 
-*Questions for NeSI folk:*
- - *what lead-time is required for software installs?*
- - *what is the process for testing material on NeSI systems?*
- - *if software is already installed, can (almost) all the testing be done by the the workshop developers?*
- - *how do scripts need to be modified to run on NeSI systems?*
+```diff
+@@ Questions for NeSI folk: @@
+ - what lead-time is required for software installs?
+ - what is the process for testing material on NeSI systems?
+ - if software is already installed, can (almost) all the testing be done by the the workshop developers?
+ - how do scripts need to be modified to run on NeSI systems?
 
+```
 ### Additional considerations
  
 *Ability to run workshop locally (i.e. not on NeSI systems)*
@@ -134,6 +139,8 @@ adds a link to the Genomics Aotearoa website:
 - *that would allow non-NeSI users to download the exact files being used, without any need to duplicate (and remember to update them) externally (e.g., on FigShare).*
 - *would we then just add a brief section to the workshop that covers "how to run this workshop on your own computer"?*
 
-*Work in progress...*
+```diff
+! Work in progress...
+```
 
 Next step: [Content Creation Example](https://github.com/mikblack/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
