@@ -6,7 +6,7 @@ The first step in creating the online workshop material is to set up a GitHub re
 
 This can be done by visting your GitHub user page, clicking on the "Repositories" tab (left-hand side, near the top), and then on the "New" button (green button, to the right of the window).
 
-Once you've done this, you will be presented with an interface where you provide information about teh new repository. Here is the information that I used to set up the repo for *this* workshop:
+Once you've done this, you will be presented with an interface where you provide information about the new repository. Here is the information that I used to set up the repo for *this* workshop:
 
 <img width="50%" src="images/create_repo.png">
 
@@ -18,7 +18,7 @@ Once it has been created (i.e., after you click on the "Create repository" butto
 
 <img width="50%" src="images/new_repo.png">
 
-README.md is a markdown file, and is very minimal - it just contains a heading with the name of the repo (in this case "ga-workshop-tutorial"). But clicking on teh "pencil" icon (to the right of the screen), we can edit this file to add some more information. This puts us into an editing mode, where additional text can be added:
+README.md is a markdown file, and is very minimal - it just contains a heading with the name of the repo (in this case "ga-workshop-tutorial"). But clicking on the "pencil" icon (to the right of the screen), we can edit this file to add some more information. This puts us into an editing mode, where additional text can be added:
 
 <img width="50%" src="images/edit_readme.png">
 
@@ -86,5 +86,5 @@ Once this has been done, our changes/additions to the repository are reflected o
 
 <img width="50%" src="images/gh_updated.png">
 
-Next step: [Addinng Content](https://github.com/mikblack/ga-workshop-tutorial/tree/main/1.AddingContent)
+Next step: [Adding Content](https://github.com/mikblack/ga-workshop-tutorial/tree/main/1.AddingContent)
 
